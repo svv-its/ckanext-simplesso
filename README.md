@@ -9,9 +9,9 @@ Installation
 
 ckanext-simplesso has been tested against CKAN 2.4.1.
 
-To install, activate your CKAN virtualenv and then do:
+To install, activate your CKAN virtualenv and then do as follows:
 
-    git clone 'https://github.co/jorabra/ckanext-simplesso.git'
+    git clone 'https://github.com/svv-its/ckanext-simplesso.git'
     cd ckanext-simple
     pip install -e . (or alternatively equivalent) python setup.py develop 
 
